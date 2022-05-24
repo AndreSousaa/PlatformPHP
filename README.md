@@ -1,3 +1,3 @@
 # PlatformPHP 
 
-Sistema de Gestão de Empregos (Site de Recrutamento) com Back-End em PHP 
+Sistema de Gestão de "Restaurante" ou serviços afins com Back-End em PHP 
